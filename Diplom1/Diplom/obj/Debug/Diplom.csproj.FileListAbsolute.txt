@@ -1,0 +1,9 @@
+E:\VS 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.exe.config
+E:\VS 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.exe
+E:\VS 2015\Projects\Diplom\Diplom\bin\Debug\Diplom.pdb
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.exe
+E:\VS 2015\Projects\Diplom\Diplom\obj\Debug\Diplom.pdb
